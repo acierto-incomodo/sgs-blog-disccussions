@@ -1,10 +1,11 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/cardinal-system",
   "promos": {
-    "1.20.1-latest": "3.0.0",
-    "1.20.1-recommended": "3.0.0"
+    "1.20.1-latest": "3.0.2",
+    "1.20.1-recommended": "3.0.2"
   },
   "1.20.1": {
+    "3.0.2": "# Cambios\nTocaba arreglar varios fallitos por lo que aquí esta la actualización.\nLos cambios son mínimos, y se de que esto no lo lee nadie, pero aquí lo dejo igualmente:\n- Arreglos en las traducciones\n- Mensajes divertidos por algún lado\n# Reto\nSe que esto es una tontería muy grande, pero si quieres ver los mensajes divertidos tienes dos maneras de encontrarlos.\na) Eres un desarrollador mirando el registro\nb) Estas buscándolos hasta en la sopa\nAquí te dejo algunas pistas:\n- Mira el registro que se encuentra en la carpeta 'logs'\n- El nombre del archivo es debug.log o el latest.log, no estoy seguro de cual es\n- Disfruta buscando entre todas las cosas ;)\n# Versión\nEl mod ahora tiene la versión 3.0.2, por si no lo habias visto :D\n\n___\n\nEl equipo de StormGamesStudios",
     "3.0.0": "Actualizacion del mod.\n- Introduce varias mejoras de rendimiento.\n- Agrega nuevas funciones.",
     "2.0.0": "Versión inicial de Cardinal System para Minecraft 1.20.1.\n- Introduce el sistema básico de [Descripción General del Mod].\n- Añade bloques y ítems iniciales."
   }
